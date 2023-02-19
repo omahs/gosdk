@@ -128,7 +128,7 @@ Wallet's client_id
 
 transaction hash of the pour transaction,
 
-round when the transaciton is processed,
+round when the transaction is processed,
 
 wallet balance
 
@@ -199,7 +199,7 @@ http://pedro.alphanet-0chain.net:7171/v1/screst/6dba10422e368813802877a85039d398
 
 ## ENDPOINT: "/v1/file/upload/"
 
-**Purpose** To send a upload request
+**Purpose** To send an upload request
 
 **METHOD** POST'
 
